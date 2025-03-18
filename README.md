@@ -8,4 +8,4 @@ Assessing the accuracy of a genome assembly
 `{"qscore": 63.79, "coverage": 100.0, "num_mismatches": 0, "num_indels": 2}`
 
 ## Dependency
-* [MUMmer4](github.com/mummer4/mummer)
+* [MUMmer4](https://github.com/mummer4/mummer)
